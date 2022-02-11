@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "ab",
+      "username": "ly",
+      "email": "ably@gmail.com",
+      "phone": "123456789",
+      "id": 1
+    },
+    {
+      "name": "Test1",
+      "username": "Test user",
+      "email": "testuser@gmail.com",
+      "phone": "7896547896",
+      "id": 2
+    },
+    {
+      "name": "John",
+      "username": "Travolta",
+      "email": "jt@gmail.com",
+      "phone": "7458965874",
+      "id": 3
+    },
+    {
+      "name": "James",
+      "username": "James Bonde",
+      "email": "jb@gmail.com",
+      "phone": "4569874563",
+      "id": 4
+    }
+  ]
+}
